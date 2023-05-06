@@ -1,4 +1,5 @@
 # An MVP of Learning Management System by Codebrains
+* To access, Username: omar and password: 01234567
 ## 📝 Table of Contents
 - [📙 About](#About)  
 - [📃 Documentation](#Documentation)
