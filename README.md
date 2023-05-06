@@ -23,7 +23,9 @@
 * Add new professor(s)
 * Assign Professor(s) to a Course
 * Add Student(s) to a Course
-***********************
+
+***************************
+
 * Admin can show the Student Info 
 <br>
     ○ Basic Info :
@@ -36,7 +38,9 @@
     ○ The registered courses and their grades.
     ○ Enroll him in a certain course & edit his grades.
 <br>    
-***********************
+
+***************************
+
 * Admin can show the Professor Info
 <br>
     ○ Basic Info :
@@ -48,7 +52,9 @@
     ○ The Assigned courses and their Students.
     ○ Assign him to a new course.
 <br>    
+
 ***************************
+
 * Admin can show the Courses Info
 <br>
     ○ Basic Info :
@@ -61,7 +67,9 @@
 
     ○ Add Student/Professor to the course.
 <br>
-**********************
+
+***************************
+
 * Admin can search by
 ○ course_code
 ○ student_name or ID 
