@@ -81,7 +81,7 @@
 
 ## 📷Demo Screenshots <a name = "Screenshots"></a>  
 - Login 
-<p align="left"> <img width="20%" src="https://i.ibb.co/J5YvZdD/login2.png" /> </p>
+<p align="left"> <img width="40%" src="https://i.ibb.co/J5YvZdD/login2.png" /> </p>
 
 - Add new admin
 <p align="left"> <img width="50%" src="https://i.ibb.co/prRKjnz/addadmin.png" /> </p>
